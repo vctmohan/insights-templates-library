@@ -1,0 +1,12 @@
+- application:
+    name: vcollabpro
+    minver: 24.2.0
+  interpreter:
+    name: vcrep
+    minver: 0.6.0
+- application:
+    name: insights
+    minver: 0.6.0
+  interpreter:
+    name: vcrep
+    minver: 0.6.0
