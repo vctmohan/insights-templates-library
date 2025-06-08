@@ -1,1 +1,1 @@
-# VCollab Insights Templates Library Test Repository
+# VCollab Insights Templates Library Repository Example
