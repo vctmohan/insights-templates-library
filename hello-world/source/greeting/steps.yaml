@@ -1,0 +1,3 @@
+- action: log_message
+  message: {{ greeting_message }}
+  log_level: info
