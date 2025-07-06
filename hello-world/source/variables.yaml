@@ -1,3 +1,0 @@
-- name: greeing_message
-  type: string
-  default: "Hello World!"
