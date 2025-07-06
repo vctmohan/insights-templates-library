@@ -1,0 +1,9 @@
+title: Hello World
+description: description.md
+preview: preview.png
+variables: variables.yaml
+steps: steps.yaml
+tags:
+  - hello
+  - world
+  - greeting
